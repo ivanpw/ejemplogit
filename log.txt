@@ -1,0 +1,29 @@
+commit da59fa4382e786b0d456cd23f7400d1e9cd69bff
+Author: ivan <i_genaro8@hotmail.com>
+Date:   Tue Jul 4 11:50:14 2017 -0600
+
+    se agrago bootstrap
+
+commit f95068649d332af3b812c6428aedbaca41a5778c
+Author: ivan <i_genaro8@hotmail.com>
+Date:   Tue Jul 4 11:48:57 2017 -0600
+
+    se elminino archivo error
+
+commit 32d0e28bff8658f22941fef5142adf3111609583
+Author: ivan <i_genaro8@hotmail.com>
+Date:   Tue Jul 4 11:43:04 2017 -0600
+
+    se puso imagen
+
+commit 50303c18963a8ef9d4d0018be27adb635e87d415
+Author: ivan <i_genaro8@hotmail.com>
+Date:   Tue Jul 4 11:39:23 2017 -0600
+
+    se agrago  letras
+
+commit c9fb2a33f015de4b4aacedb3b2d8b45e274d7757
+Author: ivan <i_genaro8@hotmail.com>
+Date:   Tue Jul 4 11:29:39 2017 -0600
+
+    estructura1
